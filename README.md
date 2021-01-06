@@ -6,4 +6,6 @@ a .txt file where you can find the multiply process.
 
 Execute this command
 
+```
 npm install
+```
