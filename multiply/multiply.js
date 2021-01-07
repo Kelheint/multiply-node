@@ -5,7 +5,7 @@ const { resolve } = require('path');
 
 let createLimit = async (base, limite) => {
    for(let i = 1; i <= limite; i++){
-      console.log (`${base} x ${limite} = ${base * limite}\n`.green);
+      console.log (`${base} x ${i} = ${base * i}\n`.green);
    }
 }
 
